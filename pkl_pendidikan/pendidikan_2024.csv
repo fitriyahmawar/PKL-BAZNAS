@@ -1,0 +1,73 @@
+id,nama,bulan,tingkat_pendidikan,jenis_bantuan
+1,Ahmad,Januari,SMP,SPP
+2,Budi,Januari,SD,Seragam
+3,Citra,Januari,SMP,SPP
+4,Dina,Januari,SD,Perlengkapan Sekolah
+5,Eka,Januari,SMP,Seragam
+6,Fikri,Januari,SD,SPP
+7,Gita,Januari,SMP,Seragam
+
+8,Hadi,Februari,SD,SPP
+9,Indri,Februari,SMP,Seragam
+10,Joko,Februari,SD,Seragam
+11,Kiki,Februari,SMP,Perlengkapan Sekolah
+
+12,Lia,Maret,SMP,SPP
+13,Maman,Maret,SD,Seragam
+14,Nina,Maret,SMP,SPP
+15,Oki,Maret,SD,Perlengkapan Sekolah
+16,Putri,Maret,SMP,Seragam
+17,Qori,Maret,SD,SPP
+
+18,Rama,April,SD,SPP
+19,Salsa,April,SMP,SPP
+20,Tomi,April,SD,Seragam
+21,Umar,April,SMP,Perlengkapan Sekolah
+22,Vina,April,SD,SPP
+
+23,Wawan,Mei,SMP,SPP
+24,Xena,Mei,SD,Seragam
+25,Yoga,Mei,SMP,SPP
+26,Zara,Mei,SD,Perlengkapan Sekolah
+27,Agus,Mei,SMP,Seragam
+28,Bella,Mei,SD,SPP
+29,Cahyo,Mei,SMP,Seragam
+30,Dela,Mei,SD,SPP
+
+31,Eka,Juni,SD,SPP
+32,Fahri,Juni,SMP,Seragam
+33,Gilang,Juni,SD,Perlengkapan Sekolah
+34,Hana,Juni,SMP,SPP
+35,Indah,Juni,SD,Seragam
+
+36,Jihan,Juli,SMP,SPP
+37,Kamal,Juli,SD,Seragam
+38,Lina,Juli,SMP,SPP
+39,Made,Juli,SD,Perlengkapan Sekolah
+
+40,Nanda,Agustus,SD,SPP
+41,Omar,Agustus,SMP,Seragam
+42,Putra,Agustus,SD,Perlengkapan Sekolah
+43,Qila,Agustus,SMP,SPP
+44,Rino,Agustus,SD,Seragam
+45,Sinta,Agustus,SMP,SPP
+
+46,Tara,September,SMP,SPP
+47,Umar,September,SD,Seragam
+48,Vira,September,SMP,Perlengkapan Sekolah
+49,Wahyu,September,SD,SPP
+50,Xander,September,SMP,Seragam
+
+51,Yana,Oktober,SD,SPP
+52,Zidan,Oktober,SMP,Seragam
+53,Alfi,Oktober,SD,Perlengkapan Sekolah
+
+54,Bimo,November,SMP,SPP
+55,Caca,November,SD,Seragam
+56,Dito,November,SMP,Perlengkapan Sekolah
+57,Elsa,November,SD,SPP
+58,Fajar,November,SMP,Seragam
+
+59,Gani,Desember,SD,SPP
+60,Hilda,Desember,SMP,SPP
+61,Irfan,Desember,SD,Seragam
